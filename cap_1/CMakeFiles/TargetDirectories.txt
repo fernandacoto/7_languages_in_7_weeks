@@ -1,0 +1,3 @@
+/Users/Fer/Documents/Workshops y Tutoriales/7_languages_in_7_weeks/cap_1/CMakeFiles/rebuild_cache.dir
+/Users/Fer/Documents/Workshops y Tutoriales/7_languages_in_7_weeks/cap_1/CMakeFiles/edit_cache.dir
+/Users/Fer/Documents/Workshops y Tutoriales/7_languages_in_7_weeks/cap_1/CMakeFiles/play.dir

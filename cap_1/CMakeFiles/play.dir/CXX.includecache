@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Fer/Documents/Workshops y Tutoriales/7_languages_in_7_weeks/cap_1/play.cpp
+lua.h
+/Users/Fer/Documents/Workshops y Tutoriales/7_languages_in_7_weeks/cap_1/lua.h
+lauxlib.h
+/Users/Fer/Documents/Workshops y Tutoriales/7_languages_in_7_weeks/cap_1/lauxlib.h
+lualib.h
+/Users/Fer/Documents/Workshops y Tutoriales/7_languages_in_7_weeks/cap_1/lualib.h
+RtMidi.h
+/Users/Fer/Documents/Workshops y Tutoriales/7_languages_in_7_weeks/cap_1/RtMidi.h
+
